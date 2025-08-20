@@ -38,3 +38,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 License:
 This project is licensed under the MIT License. See the LICENSE file for details.
+<img width="1101" height="251" alt="Screenshot 2025-08-20 173213" src="https://github.com/user-attachments/assets/41c45732-35a2-4c97-8846-e9d3ef9f1858" />
+<img width="523" height="227" alt="Screenshot 2025-08-20 173338" src="https://github.com/user-attachments/assets/03bd0e18-fdc1-4fdf-8c55-25bd9d817e8a" />
+<img width="1346" height="321" alt="Screenshot 2025-08-20 173356" src="https://github.com/user-attachments/assets/a4586065-ef92-4d03-90b4-28a6c6d22d09" />
+<img width="625" height="234" alt="Screenshot 2025-08-20 173439" src="https://github.com/user-attachments/assets/3b3a0cc1-43dc-40fb-83d1-9fb12f0a653a" />
