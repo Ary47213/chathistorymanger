@@ -15,7 +15,7 @@ Technologies Used:
 
 How to Run:
 
-1. Clone the repository: git clone https://github.com/your-username/Chat-Message-History-Manager.git
+1. Clone the repository: git clone https:https://github.com/Ary47213/chathistorymanger.git
 2. Navigate to the project directory: cd hat_history_manager
 3. Run the application: python hat_history_manager.py
 
